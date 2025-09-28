@@ -4,3 +4,5 @@ cf_flags_output_allwa
 screenshots2
 outputs
 creds
+.env
+__pycache__
